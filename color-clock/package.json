@@ -4,7 +4,7 @@
   "description": "Clock that changes colors",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Hello World\" && exit 1"
+    "test": "echo 'Hello World!'"
   },
   "author": "",
   "license": "ISC"
